@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎯 Survive the Crit — Portfolio Review
 
 > **AI Fluency | Week 6 | Build+**
@@ -162,4 +161,3 @@ survive-the-crit-portfolio-review/
 =======
 # survive-the-crit-portfolio-review
 AI Fluency Week 6 | Survive the Crit — Portfolio review, feedback analysis, and live-site improvements.
->>>>>>> ad64ce5bc4eee0f02a0a2fa072fbc8dd83ea7b0e
